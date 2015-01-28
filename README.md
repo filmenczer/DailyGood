@@ -1,6 +1,6 @@
 # DailyGood
 
-Fil's first attempts at wireframes for an app designed to siggest opportunities for volunteering
+Fil's first attempts at wireframes for an app designed to suggest opportunities for volunteering
 
 Time spent: about three hours.
 
