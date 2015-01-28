@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6E61647D-0815-4AC9-9ED6-4355BEC2565B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DailyGood</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8B159D44C4BEBAE8F5335D6C5401A34A0EFF8711</key>
+		<string>https://github.com/filmenczer/DailyGood.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DailyGood/DailyGood.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8B159D44C4BEBAE8F5335D6C5401A34A0EFF8711</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/filmenczer/DailyGood.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8B159D44C4BEBAE8F5335D6C5401A34A0EFF8711</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8B159D44C4BEBAE8F5335D6C5401A34A0EFF8711</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DailyGood</string>
+		</dict>
+	</array>
+</dict>
+</plist>
