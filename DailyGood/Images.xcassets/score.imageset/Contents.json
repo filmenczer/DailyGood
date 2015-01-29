@@ -2,12 +2,12 @@
   "images" : [
     {
       "idiom" : "universal",
-      "scale" : "1x"
+      "scale" : "1x",
+      "filename" : "score.png"
     },
     {
       "idiom" : "universal",
-      "scale" : "2x",
-      "filename" : "score.JPG"
+      "scale" : "2x"
     },
     {
       "idiom" : "universal",

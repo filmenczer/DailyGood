@@ -1,20 +1,27 @@
 # DailyGood
 
-Fil's first attempts at wireframes for an app designed to suggest opportunities for volunteering
+Wireframes for an app designed to suggest local opportunities for volunteering and track a person's good score. Ultimately it will be based on data from the [All for Good API](http://www.allforgood.org/use-our-api). 
 
-Time spent: about three hours.
+Time spent: about 10 hours.
 
-Story: TO BE ADDED
+Completed user stories:
 
-Problem: I cannot get the images to show. I get these errors: 
+ * [x] Required: User can view a list of latest box office movies including title, cast and tomatoes rating
+ * [x] Required: User can click on a movie in the list to bring up a details page with additional information such as synopsis
+ * [x] Optional: Placeholder image is used for movie posters loaded in from the network
 
-2015-01-27 16:14:07.396 DailyGood[53680:2327950] Could not load the "user" image referenced from a nib in the bundle with identifier "com.yahoo-inc.DailyGood"
-2015-01-27 16:14:07.397 DailyGood[53680:2327950] Could not load the "habitat2" image referenced from a nib in the bundle with identifier "com.yahoo-inc.DailyGood"
-2015-01-27 16:14:07.399 DailyGood[53680:2327950] Could not load the "main" image referenced from a nib in the bundle with identifier "com.yahoo-inc.DailyGood"
-2015-01-27 16:14:07.401 DailyGood[53680:2327950] Could not load the "home" image referenced from a nib in the bundle with identifier "com.yahoo-inc.DailyGood"
+Notes:
 
-Walkthrough:
+* Got stuck initially due to problems with images -- was using jpeg and too large images. 
 
-TO BE ADDED
+* Used Navigation and Tab Bar controllers since we just covered them in class.
+
+* Spent some time trying to display a static table, could not figure it out.
+
+* App crashes when clicking on Search Bar controller, probably because of missing code to handle it.
+
+Walkthrough of user stories:
+
+![Video Walkthrough](walkthrough.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/)
