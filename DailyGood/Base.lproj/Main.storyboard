@@ -84,7 +84,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="Be Good" id="ayJ-m8-QJG"/>
-                    <navigationItem key="navigationItem" id="vBY-Ni-5Aa"/>
+                    <navigationItem key="navigationItem" title="Social Good" id="vBY-Ni-5Aa"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="9Xt-GL-E80" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -105,7 +105,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <navigationItem key="navigationItem" id="clc-NV-rsZ"/>
+                    <navigationItem key="navigationItem" title="Social Good Stats" id="clc-NV-rsZ"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="UdA-D8-kxk" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -126,11 +126,11 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <navigationItem key="navigationItem" id="2Lm-Ed-mBx"/>
+                    <navigationItem key="navigationItem" title="Values Cloud" id="2Lm-Ed-mBx"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="oLw-n5-bnX" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1064" y="94"/>
+            <point key="canvasLocation" x="1064" y="182"/>
         </scene>
         <!--Be Good Nav-->
         <scene sceneID="KVC-oC-Wge">
@@ -164,7 +164,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <navigationItem key="navigationItem" id="OAT-pE-nd0"/>
+                    <navigationItem key="navigationItem" title="History" id="OAT-pE-nd0"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Us0-Fg-knP" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -189,7 +189,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <navigationItem key="navigationItem" id="3Uv-KS-3qW"/>
+                    <navigationItem key="navigationItem" title="Friends" id="3Uv-KS-3qW"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="P4N-1N-iP0" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -251,7 +251,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <navigationItem key="navigationItem" id="SLA-Vz-x8R"/>
+                    <navigationItem key="navigationItem" title="Demographics" id="SLA-Vz-x8R"/>
                     <connections>
                         <outlet property="searchDisplayController" destination="CWO-u4-cEo" id="jvy-fb-K8B"/>
                     </connections>
@@ -275,7 +275,7 @@
                     </connections>
                 </searchDisplayController>
             </objects>
-            <point key="canvasLocation" x="1064" y="752"/>
+            <point key="canvasLocation" x="1064" y="811"/>
         </scene>
         <!--More-->
         <scene sceneID="WX8-C2-eGv">
@@ -430,7 +430,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="Do Good" id="Ofg-vJ-TKL"/>
-                    <navigationItem key="navigationItem" id="5O1-si-ydB"/>
+                    <navigationItem key="navigationItem" title="Opportunities" id="5O1-si-ydB"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="jm1-Lr-UO3" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -501,7 +501,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <navigationItem key="navigationItem" id="kG4-mN-jPI"/>
+                    <navigationItem key="navigationItem" title="Details" id="kG4-mN-jPI"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="D4b-Xz-qzh" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -591,11 +591,11 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <accessibility key="accessibilityConfiguration" label="Saturday 2 Feb 9a-12n"/>
                     </view>
-                    <navigationItem key="navigationItem" id="HAL-hI-1Yy"/>
+                    <navigationItem key="navigationItem" title="Volunteer" id="HAL-hI-1Yy"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Ksc-iH-55z" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1064" y="-420"/>
+            <point key="canvasLocation" x="1064" y="-456"/>
         </scene>
         <!--Charity-->
         <scene sceneID="FUN-mK-vx4">
@@ -612,7 +612,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <navigationItem key="navigationItem" id="3yr-qE-hce"/>
+                    <navigationItem key="navigationItem" title="Charity" id="3yr-qE-hce"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Adb-hD-N6C" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
