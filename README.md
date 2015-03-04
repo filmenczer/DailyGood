@@ -2,7 +2,7 @@
 
 Wireframes for an app designed to suggest local opportunities for volunteering and track a person's good score. Ultimately it will be based on data from the [All for Good API](http://www.allforgood.org/use-our-api). 
 
-Time spent: about 10 hours.
+Time spent: about 15 hours.
 
 Completed user stories:
 

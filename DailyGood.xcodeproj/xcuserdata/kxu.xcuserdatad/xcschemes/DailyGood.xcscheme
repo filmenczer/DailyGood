@@ -14,7 +14,11 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+<<<<<<< HEAD
                BlueprintIdentifier = "B8C5B8641A916D3C00A1909F"
+=======
+               BlueprintIdentifier = "28E2061F1A77188B00903517"
+>>>>>>> origin/master
                BuildableName = "DailyGood.app"
                BlueprintName = "DailyGood"
                ReferencedContainer = "container:DailyGood.xcodeproj">
@@ -28,7 +32,11 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+<<<<<<< HEAD
                BlueprintIdentifier = "B8C5B8791A916D3D00A1909F"
+=======
+               BlueprintIdentifier = "28E206341A77188B00903517"
+>>>>>>> origin/master
                BuildableName = "DailyGoodTests.xctest"
                BlueprintName = "DailyGoodTests"
                ReferencedContainer = "container:DailyGood.xcodeproj">
@@ -46,7 +54,11 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
+<<<<<<< HEAD
                BlueprintIdentifier = "B8C5B8791A916D3D00A1909F"
+=======
+               BlueprintIdentifier = "28E206341A77188B00903517"
+>>>>>>> origin/master
                BuildableName = "DailyGoodTests.xctest"
                BlueprintName = "DailyGoodTests"
                ReferencedContainer = "container:DailyGood.xcodeproj">
@@ -56,7 +68,11 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
+<<<<<<< HEAD
             BlueprintIdentifier = "B8C5B8641A916D3C00A1909F"
+=======
+            BlueprintIdentifier = "28E2061F1A77188B00903517"
+>>>>>>> origin/master
             BuildableName = "DailyGood.app"
             BlueprintName = "DailyGood"
             ReferencedContainer = "container:DailyGood.xcodeproj">
@@ -75,7 +91,11 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
+<<<<<<< HEAD
             BlueprintIdentifier = "B8C5B8641A916D3C00A1909F"
+=======
+            BlueprintIdentifier = "28E2061F1A77188B00903517"
+>>>>>>> origin/master
             BuildableName = "DailyGood.app"
             BlueprintName = "DailyGood"
             ReferencedContainer = "container:DailyGood.xcodeproj">
@@ -93,7 +113,11 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
+<<<<<<< HEAD
             BlueprintIdentifier = "B8C5B8641A916D3C00A1909F"
+=======
+            BlueprintIdentifier = "28E2061F1A77188B00903517"
+>>>>>>> origin/master
             BuildableName = "DailyGood.app"
             BlueprintName = "DailyGood"
             ReferencedContainer = "container:DailyGood.xcodeproj">
