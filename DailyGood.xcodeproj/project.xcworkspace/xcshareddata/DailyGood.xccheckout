@@ -5,36 +5,48 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>6E61647D-0815-4AC9-9ED6-4355BEC2565B</string>
+	<string>42E50E10-30BE-4059-8B1D-0E0A7592D7B1</string>
 	<key>IDESourceControlProjectName</key>
 	<string>DailyGood</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>4FBD795D436C0C248FB87061F29A58B8BECEC27E</key>
-		<string>https://github.com/filmenczer/DailyGood.git</string>
+		<key>064BE613D003045803461D0ACEBB03377BEFBAFF</key>
+		<string>https://github.com/kellyxu1981/Project_DailyGood.git</string>
+		<key>5A5B88CC2ED58D397732CD9632FF11E16E18FB03</key>
+		<string>github.com:kellyxu1981/wireframe_Ypool.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>DailyGood.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>4FBD795D436C0C248FB87061F29A58B8BECEC27E</key>
+		<key>064BE613D003045803461D0ACEBB03377BEFBAFF</key>
 		<string>../..</string>
+		<key>5A5B88CC2ED58D397732CD9632FF11E16E18FB03</key>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/filmenczer/DailyGood.git</string>
+	<string>https://github.com/kellyxu1981/Project_DailyGood.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>4FBD795D436C0C248FB87061F29A58B8BECEC27E</string>
+	<string>064BE613D003045803461D0ACEBB03377BEFBAFF</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>4FBD795D436C0C248FB87061F29A58B8BECEC27E</string>
+			<string>5A5B88CC2ED58D397732CD9632FF11E16E18FB03</string>
 			<key>IDESourceControlWCCName</key>
-			<string>DailyGood</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>064BE613D003045803461D0ACEBB03377BEFBAFF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Project_DailyGood</string>
 		</dict>
 	</array>
 </dict>

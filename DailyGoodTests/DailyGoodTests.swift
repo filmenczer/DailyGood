@@ -2,8 +2,8 @@
 //  DailyGoodTests.swift
 //  DailyGoodTests
 //
-//  Created by Filippo Menczer on 1/26/15.
-//  Copyright (c) 2015 yahoo. All rights reserved.
+//  Created by Kelly Xu on 2/15/15.
+//  Copyright (c) 2015 kelly. All rights reserved.
 //
 
 import UIKit
